@@ -1,6 +1,6 @@
 /* TAGS */
 * {margin:0;padding:0}
-html {min-width:920px} 
+html {min-width:920px}
 body {background:#2f373a;font-family:Arial,Helvetica,sans-serif;font-size:100%;line-height:1em;color:#4e4e4e;min-width:920px;border-top:10px solid #0c0e0e}
 object {vertical-align:top;outline:none}
 input, textarea, select {font-family:Arial,Helvetica,sans-serif;font-size:1em;vertical-align:middle;font-weight:normal}
@@ -61,7 +61,7 @@ h4 {font-size:30px;color:#000;letter-spacing:-2px;margin-bottom:16px}
 #header {height:478px;background:url(images/header-bg.jpg) no-repeat left bottom;position:relative;z-index:2}
 #header .extra {position:absolute;right:-24px;top:113px}
 #header .row-1 {height:117px;width:100%;overflow:hidden}
-#header .row-1 .fleft {padding:24px 0 0 26px}
+#header .row-1 .fleft {padding:10px 0 0 26px}
 #header .row-1 .fright {padding:27px 15px 0 0}
 #header .row-2 {height:68px}
 #header .row-2 ul {width:100%;overflow:hidden;position:relative;z-index:2}
